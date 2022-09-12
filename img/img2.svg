@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1280px"
+	 height="1280px" viewBox="0 0 1280 1280" style="enable-background:new 0 0 1280 1280;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F7F7F7;stroke:#F7F7F7;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:#ADADAD;}
+	.st3{font-family:'SourceSansPro-Bold';}
+	.st4{font-size:48px;}
+	.st5{letter-spacing:-2.41;}
+	.st6{fill:#6D6E6D;}
+	.st7{fill:#595959;}
+	.st8{fill:#C85555;}
+	.st9{fill:#ADADAD;stroke:#F7F7F7;stroke-miterlimit:10;}
+	.st10{fill:#ADADAD;stroke:#ADADAD;stroke-miterlimit:10;}
+	.st11{fill:#6E6E6E;stroke:#6D6E6D;stroke-miterlimit:10;}
+	.st12{fill:#C95555;stroke:#F7F7F7;stroke-miterlimit:10;}
+	.st13{fill:#F0BDBD;stroke:#EDBDBD;stroke-miterlimit:10;}
+</style>
+<g id="Layer_1">
+	<rect class="st0" width="1280" height="1280"/>
+	<rect x="225.95" y="149.16" class="st1" width="712" height="49.68"/>
+	<text transform="matrix(0.83 0 0 0.65 225.9451 182.711)" class="st2 st3 st4 st5">RUTA ORIGINAL POR CURICO</text>
+	<rect x="371.08" y="309.16" class="st1" width="712" height="49.68"/>
+	<text transform="matrix(0.83 0 0 0.65 371.0755 342.711)" class="st6 st3 st4 st5">ATAJO POR LA LAGUNA</text>
+	<rect x="813.24" y="696" class="st1" width="768" height="49.68"/>
+	<text transform="matrix(0.83 0 0 0.65 813.2441 729.5515)" class="st7 st3 st4 st5">CHOQUE</text>
+	<rect x="383.24" y="664.84" class="st1" width="768" height="49.68"/>
+	<text transform="matrix(0.83 0 0 0.65 383.2441 698.3919)" class="st8 st3 st4 st5">DESVIO</text>
+</g>
+<g id="Layer_2">
+	<rect x="186.24" y="198.84" class="st10" width="24" height="932"/>
+	
+		<rect x="656.24" y="-255.16" transform="matrix(6.123234e-17 -1 1 6.123234e-17 457.4039 879.0848)" class="st10" width="24" height="932"/>
+</g>
+<g id="Layer_3">
+	<rect x="332.24" y="358.84" class="st11" width="24" height="772"/>
+	
+		<rect x="727.24" y="-24.16" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1110.0848 -368.4039)" class="st11" width="24" height="790"/>
+</g>
+<g id="Layer_4">
+	
+		<rect x="537.24" y="501.84" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 1270.0847 171.5961)" class="st12" width="24" height="438"/>
+</g>
+<g id="Layer_5">
+	<ellipse class="st13" cx="199.11" cy="216.34" rx="26.83" ry="28.5"/>
+	<ellipse class="st13" cx="344.24" cy="370.84" rx="26.83" ry="28.5"/>
+	<ellipse class="st13" cx="767.24" cy="720.84" rx="26.83" ry="28.5"/>
+	<ellipse class="st13" cx="344.24" cy="720.84" rx="26.83" ry="28.5"/>
+</g>
+</svg>
