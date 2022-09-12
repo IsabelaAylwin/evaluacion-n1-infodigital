@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1280px" height="1280px" viewBox="0 0 1280 1280" style="enable-background:new 0 0 1280 1280;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#F7F7F7;}
+	.st1{fill:#DE734F;}
+	.st2{fill:none;stroke:#000000;}
+	.st3{fill:#7D7D7D;}
+	.st4{font-family:'Helvetica-Bold';}
+	.st5{font-size:15px;}
+	.st6{display:none;fill:#7B7B7B;enable-background:new    ;}
+	.st7{font-family:'Arial-BoldMT';}
+	.st8{font-size:10.0915px;}
+	.st9{font-family:'Helvetica';}
+	.st10{font-size:8.4096px;}
+	.st11{fill:#7B7B7B;}
+	.st12{font-size:19.0915px;}
+</style>
+<rect id="backgorund" class="st0" width="1280" height="1280"/>
+<g id="viz">
+	<g transform="translate(0,0)">
+		<g transform="translate(50,20)">
+			<g>
+				<path id="undefined_-_OCTUBRE" class="st1" d="M168.49,144.22h194.08c1.64,0,2.96,2.26,2.96,5.05v980.56
+					c0,2.79-1.33,5.05-2.96,5.05H168.49c-1.64,0-2.96-2.26-2.96-5.05V149.26C165.53,146.48,166.85,144.22,168.49,144.22z"/>
+				<path id="undefined_-_NOVIEMBRE" class="st1" d="M501.2,248.5h194.08c1.64,0,2.96,2.26,2.96,5.05v876.28
+					c0,2.79-1.33,5.05-2.96,5.05H501.2c-1.64,0-2.96-2.26-2.96-5.05V253.54C498.24,250.75,499.56,248.5,501.2,248.5z"/>
+				<path id="undefined_-_DICIEMBRE" class="st1" d="M825.96,300.64h194.08c1.64,0,2.96,2.26,2.96,5.05v824.14
+					c0,2.79-1.33,5.05-2.96,5.05H825.96c-1.64,0-2.96-2.26-2.96-5.05V305.68C823,302.89,824.33,300.64,825.96,300.64z"/>
+			</g>
+			<g id="xAxis" transform="translate(0,1240)">
+				<path class="st2" d="M98.76-105.13h998.95"/>
+				<g transform="translate(203.6663936663937,0)">
+					<line class="st2" x1="61.86" y1="-105.13" x2="61.86" y2="-100.09"/>
+					<text transform="matrix(0.9737 0 0 1 26.1595 -81.5452)" class="st3 st4 st5">OCTUBRE</text>
+				</g>
+				<g transform="translate(610,0)">
+					<line class="st2" x1="-11.76" y1="-105.13" x2="-11.76" y2="-100.09"/>
+					<text transform="matrix(0.9737 0 0 1 -55.9859 -81.5452)" class="st3 st4 st5">NOVIEMBRE</text>
+				</g>
+				<g transform="translate(1016.3336063336063,0)">
+					<line class="st2" x1="-85.38" y1="-105.13" x2="-85.38" y2="-100.09"/>
+					<text transform="matrix(0.9737 0 0 1 -126.3612 -81.5452)" class="st3 st4 st5">DICIEMBRE</text>
+				</g>
+				<text transform="matrix(0.9737 0 0 1 1076.4202 -108.4924)" class="st6 st7 st8">MES</text>
+			</g>
+			<g id="yAxis">
+				<path class="st2" d="M93.85,1134.87L93.85,1134.87c2.71,0,4.91-2.26,4.91-5.05V97.12c0-2.79-2.2-5.05-4.91-5.05l0,0"/>
+				<g transform="translate(0,1240)">
+					<line class="st2" x1="98.76" y1="-105.13" x2="90.41" y2="-105.13"/>
+					<text transform="matrix(1.6551 0 0 1 78.4951 -102.4375)" class="st9 st10">0</text>
+				</g>
+				<g transform="translate(0,1116)">
+					<line class="st2" x1="98.76" y1="-85.41" x2="90.41" y2="-85.41"/>
+					<text transform="matrix(1.6551 0 0 1 78.4951 -82.7178)" class="st9 st10">2</text>
+				</g>
+				<g transform="translate(0,992)">
+					<line class="st2" x1="98.76" y1="-65.69" x2="90.41" y2="-65.69"/>
+					<text transform="matrix(1.6551 0 0 1 78.4951 -62.998)" class="st9 st10">4</text>
+				</g>
+				<g transform="translate(0,868)">
+					<line class="st2" x1="98.76" y1="-45.97" x2="90.41" y2="-45.97"/>
+					<text transform="matrix(1.6551 0 0 1 78.4951 -43.2744)" class="st9 st10">6</text>
+				</g>
+				<g transform="translate(0,744)">
+					<line class="st2" x1="98.76" y1="-26.25" x2="90.41" y2="-26.25"/>
+					<text transform="matrix(1.6551 0 0 1 78.4951 -23.5557)" class="st9 st10">8</text>
+				</g>
+				<g transform="translate(0,620)">
+					<line class="st2" x1="98.76" y1="-6.53" x2="90.41" y2="-6.53"/>
+					<text transform="matrix(1.6551 0 0 1 70.7544 -3.8345)" class="st9 st10">10</text>
+				</g>
+				<g transform="translate(0,496)">
+					<line class="st2" x1="98.76" y1="13.19" x2="90.41" y2="13.19"/>
+					<text transform="matrix(1.6551 0 0 1 70.7544 15.8828)" class="st9 st10">12</text>
+				</g>
+				<g transform="translate(0,372.00000000000006)">
+					<line class="st2" x1="98.76" y1="32.91" x2="90.41" y2="32.91"/>
+					<text transform="matrix(1.6551 0 0 1 70.7544 35.604)" class="st9 st10">14</text>
+				</g>
+				<g transform="translate(0,247.99999999999994)">
+					<line class="st2" x1="98.76" y1="52.64" x2="90.41" y2="52.64"/>
+					<text transform="matrix(1.6551 0 0 1 70.7544 55.3262)" class="st9 st10">16</text>
+				</g>
+				<g transform="translate(0,123.99999999999997)">
+					<line class="st2" x1="98.76" y1="72.36" x2="90.41" y2="72.36"/>
+					<text transform="matrix(1.6551 0 0 1 70.7544 75.0469)" class="st9 st10">18</text>
+				</g>
+				<g transform="translate(0,0)">
+					<line class="st2" x1="98.76" y1="92.08" x2="90.41" y2="92.08"/>
+					<text transform="matrix(1.6551 0 0 1 70.7544 94.7676)" class="st9 st10">20</text>
+				</g>
+				<text transform="matrix(0.9737 0 0 1 102.0383 100.7351)" class="st11 st7 st12">SOBREVIVIENTES TRAGEDIA DE LOS ANDES</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
